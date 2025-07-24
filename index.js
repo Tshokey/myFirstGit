@@ -1,1 +1,7 @@
-console.log("I caused a merged conflict.");
+function add(x, y){
+    return x + y;
+};
+
+console.log("Hello World");
+
+console.log(add(5,10));
